@@ -1,0 +1,5 @@
+{
+  lastName: "Brassely",
+  firstName: "David",
+  roles: ["ROLE_ADMIN", "ROLE_APIS"]
+}
